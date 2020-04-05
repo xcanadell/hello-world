@@ -1,4 +1,4 @@
-import 'dart:html';
+import 'index:html';
 
 void main() {
   var header = querySelector('#header');
